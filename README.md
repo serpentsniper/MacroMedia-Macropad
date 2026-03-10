@@ -17,18 +17,20 @@ Built for the Hackpad YSWS through Hack Club Blueprint.
 
 The case is two pieces — a top plate and a bottom enclosure. Everything is held together with 4 M3x16mm screws and M3x5x4mm heatset inserts.
 
+![Case](Images/complete_cad.png)
 The top plate is 1.5mm thick at the switch cutouts so MX switches clip in securely. The encoder shaft and OLED display window are cut into the top section above the key grid.
 
 Made in Autodesk Inventor.
-
+![Top Case](Images/top_cad.png)
+![Bottom Case](Images/bottom_cad.png)
 ## PCB:
 
 Designed in KiCad. 2-layer board, 59.5mm x 100mm.
 
 Schematic
-
+![Schematic](Images/schematic.png)
 PCB
-
+![PCB](Images/pcb.png)
 * 3x3 switch matrix with COL2ROW diode configuration
 * Diodes on the back layer, tucked between switch rows
 * XIAO RP2040 mounted on the bottom center with USB-C accessible from the rear
@@ -41,7 +43,8 @@ This macropad uses [KMK](https://github.com/KMKfw/kmk_firmware) firmware running
 
 IMPORTANT NOTE: This macropad's firmware also includes the adafruit\_ssd1306 to interact with the OLED screen. This must be installed into the lib folder on the RP2040.
 
-
+### OLED Animation (concept preview)
+![Animation](Images/animation.gif)
 
 ### Key Mapping
 
