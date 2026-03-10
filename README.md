@@ -83,5 +83,5 @@ IMPORTANT NOTE: This macropad's firmware also includes the adafruit\_ssd1306 to 
 ## Setup:
 
 1. Flash CircuitPython from https://circuitpython.org/board/seeeduino\_xiao\_rp2040
-2. Copy main.py to your CIRCUITPY drive
-3. Copy adafruit\_ssd1306.mpy to the lib folder in your CIRCUITPY drive (accessible at https://github.com/adafruit/Adafruit\_CircuitPython\_SSD1306)
+2. Copy `main.py` to your `CIRCUITPY` drive
+3. Copy `adafruit\_ssd1306.mpy` to the lib folder in your `CIRCUITPY` drive (accessible at https://github.com/adafruit/Adafruit\_CircuitPython\_SSD1306)
