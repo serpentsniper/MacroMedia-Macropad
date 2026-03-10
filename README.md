@@ -1,6 +1,6 @@
-# MelodyPad
+# MacroMedia
 
-MelodyPad is a 9 key media macropad with a rotary encoder and an OLED display. It uses KMK firmware on CircuitPython and is built around the Seeed XIAO RP2040.
+MacroMedia is a 9 key media macropad with a rotary encoder and an OLED display. It uses KMK firmware on CircuitPython and is built around the Seeed XIAO RP2040.
 
 Built for the Hackpad YSWS through Hack Club Blueprint.
 
